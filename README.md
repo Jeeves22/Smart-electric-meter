@@ -1,0 +1,2 @@
+# Smart-electric-meter
+Electricity has become vital in everyday life. It is tough to imagine a world and human life without electricity. But the vitality of electricity has meant that people consume vast amounts of energy unmindfully and carelessly. The smart electric meter with advanced prepaid billing system is a device, to make electricity billing user friendly and much more readable to the common man and also provides a plenty of advantages such as energy conservation, power saving and automatic controlling of energy meter among many.
